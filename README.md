@@ -1,8 +1,7 @@
-# create-react-app 和 react-router-dom 简单例子
-
-<br/>
-![image](https://github.com/sunrain117/react-router4.-react-router-dom/blob/master/src/img/route.gif)
-![image](https://github.com/sunrain117/rnNavigation/blob/master/example/img/example.gif)
-<br/>
-参考网站：http://reacttraining.cn
-
+# rnNavigation
+本例子 使用react-navigation版本(1.0.0-beta.19) 做导航
+<br>该项目中完成了StackNavigator 和 TabNavigator
+<br>
+<br>![image](https://github.com/sunrain117/rnNavigation/blob/master/example/img/example.gif)
+<br>
+<br>如果有问题，请留言
