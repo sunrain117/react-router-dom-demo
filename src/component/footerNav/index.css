@@ -1,0 +1,52 @@
+.footerContainer{
+    display: flex;
+    flex:1;
+    flex-direction: column;
+}
+
+
+.footerNavWrapper{
+    height:80px;
+    width:100%;
+    display: flex;
+    border-top:1px solid #ccc;
+}
+.footerNavWrapper .footerNavItem{
+    display: flex;
+    flex:1;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom:8px;
+    font-size:16px;
+    color:#000;
+    text-decoration: none;
+}
+.footerNavWrapper .footerNavItem.footerNavHome{
+    background: url(../../img/home_nomal.png) no-repeat center 8px;
+    background-size:35px;
+}
+.footerNavWrapper .footerNavHome.active{
+    background: url(../../img/home_click.png) no-repeat center 8px;
+    background-size:35px;
+}
+.footerNavWrapper .footerNavItem.footerNavCar{
+    background: url(../../img/car_nomal.png) no-repeat center 8px;
+    background-size:35px;
+}
+.footerNavWrapper .footerNavCar.active{
+    background: url(../../img/car_click.png) no-repeat center 8px;
+    background-size:35px;
+}
+.footerNavWrapper .footerNavItem.footerNavMy{
+    background: url(../../img/person_nomal.png) no-repeat center 8px;
+    background-size:35px;
+}
+.footerNavWrapper .footerNavMy.active{
+    background: url(../../img/person_click.png) no-repeat center 8px;
+    background-size:35px;
+}
+
+
+.footerNavWrapper .footerNavItem.active{
+    color:#3eccf5;
+}
