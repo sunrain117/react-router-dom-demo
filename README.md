@@ -1,7 +1,5 @@
-# rnNavigation
-本例子 使用react-navigation版本(1.0.0-beta.19) 做导航
-<br>该项目中完成了StackNavigator 和 TabNavigator
+# create-react-app 和 react-router-dom做的简单例子
 <br>
-<br>![image](https://github.com/sunrain117/rnNavigation/blob/master/example/img/example.gif)
+<br>![image](https://github.com/sunrain117/react-router-dom-demo/blob/master/src/img/route.gif)
 <br>
-<br>如果有问题，请留言
+<br>参考网站：http://reacttraining.cn
